@@ -1,2 +1,4 @@
 New file
-Hello from directoty git/git!!!!!!!!!
+Hello from directoty git/git!!
+
+branch1 changes
