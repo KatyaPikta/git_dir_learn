@@ -2,3 +2,4 @@ New file
 Hello from directoty git/git!!
 
 branch1 changes
+Information branch1
