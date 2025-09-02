@@ -1,3 +1,2 @@
 New file
-Hello from directoty git/git!!!!!
-Hello branch from master
+Hello from directoty git/git!!!!!!
