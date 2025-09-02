@@ -1,9 +1,5 @@
 New file
-<<<<<<< HEAD
-Hello from directoty git/git!!!!!!
-=======
 Hello from directoty git/git!!
 Hello from branch to master
 branch1 changes
 Information branch1
->>>>>>> cc9882c (Greetings from branch to master)
