@@ -1,1 +1,2 @@
 New file
+Hello from directoty git/git_proj
